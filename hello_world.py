@@ -334,15 +334,16 @@
 # sd.s = "hello"
 # sd.replace()
 # sd.split()
-try:
-     a = open ("module_1.py","r")
-     print(1/2)
-except (FileNotFoundError,ZeroDivisionError) as c:
-    print(c)
-    print("程序执行遇到了问题")
-    print("重新打开文件")
-else:
-    print("程序无报错时运行")
-finally:
-    print("程序有无报错都运行")
-print("文件已打开")
+# try:
+#      a = open ("module_1.py","r")
+#      print(1/2)
+# except (FileNotFoundError,ZeroDivisionError) as c:
+#     print(c)
+#     print("程序执行遇到了问题")
+#     print("重新打开文件")
+# else:
+#     print("程序无报错时运行")
+# finally:
+#     print("程序有无报错都运行")
+# print("文件已打开")
+gdzdg  g WT GG
