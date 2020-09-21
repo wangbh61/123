@@ -347,3 +347,4 @@
 #     print("程序有无报错都运行")
 # print("文件已打开")
 gdzdg  g WT GG
+gsdpoi [k[pkdg[ ]]]
